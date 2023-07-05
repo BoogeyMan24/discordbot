@@ -2,7 +2,7 @@
 
 An economy discord bot that uses mongodb to store user's prograss.
 
-This is far from done and not updated currently. 
+This is far from done and currently not under development. Might come back to it though. 
 
 ## Commands and their usage:
 * /balance - Shows the users money in wallet and bank
