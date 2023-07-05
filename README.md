@@ -1,6 +1,6 @@
 # Economy DiscordBot
 
-An economy discord bot that uses mongodb to store users progress.
+An economy discord bot that uses mongodb to store user's prograss.
 
 This is far from done and not updated currently. 
 
