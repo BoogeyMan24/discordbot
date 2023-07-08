@@ -1,5 +1,5 @@
 # Economy DiscordBot
-<span style="color:red">inspired by dank memer</span>  
+
 An economy discord bot that uses mongodb to store user's progress. It also has cool cooldown system that is able to set cooldowns for commands and subcommands.
 
 This is far from done and currently not under development. Might come back to it though. 
@@ -14,3 +14,6 @@ This is far from done and currently not under development. Might come back to it
 
 ## Future Plans:
 * /pet - Buy/Take Care/Train pets
+
+
+### Inspired by dank memer
